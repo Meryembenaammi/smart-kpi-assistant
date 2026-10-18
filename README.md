@@ -162,7 +162,7 @@ http://localhost:8501
 Data Engineering | Business Intelligence | Big Data & Artificial Intelligence
 
 - GitHub: [@Meryembenaammi](https://github.com/Meryembenaammi)
-- LinkedIn: [Connect with me]([https://www.linkedin.com](https://www.linkedin.com/in/meryem-ben-aammi-453611227)/)
+- - LinkedIn: [Connect with me](https://www.linkedin.com/in/meryem-ben-aammi-453611227/)
 
 ---
 
