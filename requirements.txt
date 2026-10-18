@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+plotly
+scikit-learn
+google-cloud-bigquery
+pandas-gbq
+openai
+python-dotenv
